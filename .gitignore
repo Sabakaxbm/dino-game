@@ -1,6 +1,8 @@
 dist
 dist-ssr
 *.local
+.git
+.idea
 
 # dependencies
 /node_modules
