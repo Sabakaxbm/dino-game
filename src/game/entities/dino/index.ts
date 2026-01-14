@@ -1,0 +1,6 @@
+export { DINO_WIDTH, DINO_HEIGHT, DINO_JUMP_FORCE } from './dino.constants'
+export { createDino } from './dino.factory'
+export { updateDino } from './dino.update'
+export type { Dino } from './dino.model'
+export { setupDinoJump } from './dino.input'
+export { drawDino } from './dino.draw'

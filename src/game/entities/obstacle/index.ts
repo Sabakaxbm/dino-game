@@ -1,0 +1,5 @@
+export { GAME_SPEED } from './obstacle.constants'
+export type { Obstacle } from './obstacle.model'
+export { drawObstacle } from './obstacle.draw'
+export { updateObstacle } from './obstacle.update'
+export { createObstacle } from './obstacle.factory'
